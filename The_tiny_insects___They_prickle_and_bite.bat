@@ -1,1 +1,1 @@
-java -ea -jar client-1.5.28-SNAPSHOT-shaded.jar --debug --developer-mode
+java -ea -jar client-1.5.29-SNAPSHOT-shaded.jar --debug --developer-mode
